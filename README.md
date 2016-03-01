@@ -29,15 +29,15 @@ How to run
 5. run 'python client.py'
 6. Output should look like this
 
-'image': 'https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png', 'city': 'Killeen', 'last_name': 'Fox', 'zip': '76541', 'first_name': 'Travis', 'street': '1859 Clair Street'}
-<Response [201]>
-{"url":"http://127.0.0.1:8000/api/contacts/13/","first_name":"Travis","last_name":"Fox","street":"1859 Clair Street","zip":"76541","city":"Killeen","image":"https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"}
-{'image': 'https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png', 'city': 'Pittsfield', 'last_name': 'Kasmi', 'zip': '1201', 'first_name': 'Leontine', 'street': '1009 Kinney Street'}
-<Response [201]>
-{"url":"http://127.0.0.1:8000/api/contacts/14/","first_name":"Leontine","last_name":"Kasmi","street":"1009 Kinney Street","zip":"1201","city":"Pittsfield","image":"https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png"}
-{'image': 'http://www.google.com', 'city': 'Woodburn', 'last_name': 'Gilsing', 'zip': '97071', 'first_name': 'Shanon', 'street': '3644 Seneca Drive'}
-<Response [201]>
-{"url":"http://127.0.0.1:8000/api/contacts/15/","first_name":"Shanon","last_name":"Gilsing","street":"3644 Seneca Drive","zip":"97071","city":"Woodburn","image":"http://www.google.com"}
-{'image': 'http://nothing.com', 'city': 'Macon', 'last_name': 'Dibbets', 'zip': '31201', 'first_name': 'Miray', 'street': '489 Oakridge Lane, "test"'}
-<Response [201]>
-{"url":"http://127.0.0.1:8000/api/contacts/16/","first_name":"Miray","last_name":"Dibbets","street":"489 Oakridge Lane, \"test\"","zip":"31201","city":"Macon","image":"http://nothing.com"}
+>'image': 'https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png', 'city': 'Killeen', 'last_name': 'Fox', 'zip': '76541', 'first_name': 'Travis', 'street': '1859 Clair Street'}
+><Response [201]>
+>{"url":"http://127.0.0.1:8000/api/contacts/13/","first_name":"Travis","last_name":"Fox","street":"1859 Clair Street","zip":"76541","city":"Killeen","image":"https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"}
+>{'image': 'https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png', 'city': 'Pittsfield', 'last_name': 'Kasmi', 'zip': '1201', 'first_name': 'Leontine', 'street': '1009 Kinney Street'}
+><Response [201]>
+>{"url":"http://127.0.0.1:8000/api/contacts/14/","first_name":"Leontine","last_name":"Kasmi","street":"1009 Kinney Street","zip":"1201","city":"Pittsfield","image":"https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png"}
+>{'image': 'http://www.google.com', 'city': 'Woodburn', 'last_name': 'Gilsing', 'zip': '97071', 'first_name': 'Shanon', 'street': '3644 Seneca Drive'}
+><Response [201]>
+>{"url":"http://127.0.0.1:8000/api/contacts/15/","first_name":"Shanon","last_name":"Gilsing","street":"3644 Seneca Drive","zip":"97071","city":"Woodburn","image":"http://www.google.com"}
+>{'image': 'http://nothing.com', 'city': 'Macon', 'last_name': 'Dibbets', 'zip': '31201', 'first_name': 'Miray', 'street': '489 Oakridge Lane, "test"'}
+><Response [201]>
+>{"url":"http://127.0.0.1:8000/api/contacts/16/","first_name":"Miray","last_name":"Dibbets","street":"489 Oakridge Lane, \"test\"","zip":"31201","city":"Macon","image":"http://nothing.com"}
